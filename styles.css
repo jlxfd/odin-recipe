@@ -13,6 +13,16 @@
     text-align: center;
 }
 
-p {
+p ,
+strong ,
+.recipe-list {
     font-family: "Verdana", "Tahoma", sans-serif;
+}
+
+p {
+    text-align: justify;
+}
+
+.recipe-list {
+    color: #003e1fff;
 }
