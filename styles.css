@@ -1,0 +1,18 @@
+/*
+--floral-white: #fff8f0ff;
+--dim-gray: #6d676eff;
+--asparagus: #659b5eff;
+--dark-purple: #2e0014ff;
+--british-racing-green: #003e1fff;
+*/
+
+* {
+    background-color: #fff8f0ff;
+    color: #2e0014ff;
+    font-family: "Georgia", "Garamond", serif;
+    text-align: center;
+}
+
+p {
+    font-family: "Verdana", "Tahoma", sans-serif;
+}
