@@ -15,7 +15,7 @@
 
 p ,
 strong ,
-li, {
+.recipe-list {
     font-family: "Verdana", "Tahoma", sans-serif;
     font-size:large;
 }
@@ -24,7 +24,7 @@ p {
     text-align: justify;
 }
 
-li ,
+.recipe-list ,
 .green {
     color: #003e1fff;
 }
