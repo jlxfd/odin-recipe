@@ -41,13 +41,24 @@ h1 {
     margin: 20px 0px 10px 0px;
 }
 
-h2 {
+.heading.green {
     margin-bottom: 40px;
 }
+
 
 ul {
     list-style-type: none; 
     padding-inline-start: 0;
+    padding: 10px;
+}
+
+.list   {
+    font-size: large;
+}
+
+.list.steps {
+    margin-bottom: 80px;
+    padding: 10px;
 }
 
 .conclusion {
