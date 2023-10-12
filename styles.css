@@ -9,7 +9,7 @@ html{
     box-sizing: border-box;
 }
 
-*, *::before *::after {box-sizing: inherit;}
+*, *::before, *::after {box-sizing: inherit;}
 
 * {
     background-color: #fff8f0ff;
@@ -29,9 +29,28 @@ strong ,
 
 p {
     text-align: justify;
+    margin: 20px 0px;
 }
 
 .recipe-list ,
 .green {
     color: #003e1fff;
+}
+
+h1 {
+    margin: 20px 0px 10px 0px;
+}
+
+h2 {
+    margin-bottom: 40px;
+}
+
+ul {
+    list-style-type: none; 
+    padding-inline-start: 0;
+}
+
+.conclusion {
+    text-align: center;
+    margin-bottom: 80px;
 }
