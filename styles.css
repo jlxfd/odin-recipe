@@ -5,12 +5,19 @@
 --dark-purple: #2e0014ff;
 --british-racing-green: #003e1fff;
 */
+html{
+    box-sizing: border-box;
+}
+
+*, *::before *::after {box-sizing: inherit;}
 
 * {
     background-color: #fff8f0ff;
     color: #2e0014ff;
     font-family: "Georgia", "Garamond", serif;
     text-align: center;
+    width: 700px;
+    margin: auto;
 }
 
 p ,
